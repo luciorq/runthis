@@ -1,4 +1,4 @@
-#' Run CLI
+#' Run CLI Tool
 #'
 #' @param cmd Character. Command to run.
 #'

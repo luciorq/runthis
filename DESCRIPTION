@@ -1,6 +1,6 @@
 Package: runthis
 Title: runthis: run anything anywhere
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: c(
     person("Lucio Rezende", "Queiroz", , "luciorqueiroz@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6090-1834"))
@@ -17,8 +17,8 @@ URL: https://github.com/luciorq/condathis
 BugReports: https://github.com/luciorq/condathis/issues
 Imports:
     condathis
+    dockerthis
 Suggests:
-    dockerthis,
     testthat (>= 3.0.0)
 Remotes:
     github::luciorq/condathis,

@@ -2,7 +2,7 @@
 % Please edit documentation in R/run.R
 \name{run}
 \alias{run}
-\title{Run CLI}
+\title{Run CLI Tool}
 \usage{
 run(cmd, ...)
 }
@@ -12,5 +12,5 @@ run(cmd, ...)
 \item{...}{Character vector. Arguments passed to \code{cmd}.}
 }
 \description{
-Run CLI
+Run CLI Tool
 }
