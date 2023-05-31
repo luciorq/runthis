@@ -16,7 +16,7 @@ RoxygenNote: 7.2.3
 URL: https://github.com/luciorq/condathis
 BugReports: https://github.com/luciorq/condathis/issues
 Imports:
-    condathis
+    condathis,
     dockerthis
 Suggests:
     testthat (>= 3.0.0)
